@@ -6,4 +6,4 @@
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 A*;01:01:01:01;1;;;
 A*;01:01:01:02N;0;;;
-B*;48:02:01;48;55;;70
+B*;48:02:01;48;;;70
