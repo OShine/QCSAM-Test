@@ -5,4 +5,4 @@
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 DPB1*;01:01:01:01;?;;;
-DPB1*;354:01:02;1;;;
+DPB1*;354:01:02;?;;;
