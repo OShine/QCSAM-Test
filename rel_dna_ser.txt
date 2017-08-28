@@ -4,7 +4,7 @@
 # origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+C*;01:02:01:01;1;;;
 C*;18:01;?;;;6
-C*;18:02;?;;;6
 DPB1*;01:01:01:01;?;;;
 DPB1*;354:01:02;?;;;

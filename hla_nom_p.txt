@@ -4,5 +4,7 @@
 # origin: http://hla.alleles.org/wmda/hla_nom_p.txt
 # repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/hla_nom_p.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+C*;01:02:01;01:02P
+C*;18:01;18:01P
 DPB1*;01:01:01;01:01P
 DPB1*;354:01:02;354:01P
