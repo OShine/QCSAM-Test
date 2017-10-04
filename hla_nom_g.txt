@@ -1,4 +1,4 @@
-# file: hla_nom_g.txt
+# file: hla_nom_g.txt 
 # date: 2017-10-01
 # version: IPD-IMGT/HLA 3.30.0
 # origin: http://hla.alleles.org/wmda/hla_nom_g.txt
