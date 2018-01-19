@@ -1,0 +1,7 @@
+# file: rel_dna_ser.txt 
+# date: 2017-10-01
+# version: IPD-IMGT/HLA 3.30.0
+# origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
+# repository: https://raw.githubusercontent.com/ANHIG/IMGTHLA/Latest/wmda/rel_dna_ser.txt
+# author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
+A*;01:01:01:01;1;;;
